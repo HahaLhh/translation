@@ -1,4 +1,5 @@
-# 在线翻译 translation Vue axios v-router v-cli3
+# 在线翻译 translation 
+## Vue axios v-router v-cli3
 
 项目主要功能为翻译功能，由Vue-Cli3脚手架搭建。通过组件的嵌套，组件数据传递，连接第三方API实现项目功能。
 
