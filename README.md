@@ -1,11 +1,7 @@
 Vue-translation-demo
 
-项目主要功能为翻译功能，由Vue-Cli3脚手架搭建。
-1.组件嵌套
-2.资源请求
-3.连接第三方API
-4.组件数据传递
-5.第三方Bootstrap应用
+项目主要功能为翻译功能，由Vue-Cli3脚手架搭建。通过组件的嵌套，组件数据传递，连接第三方API实现项目功能。
+
 在线预览项目地址：https://hahalhh.github.io/translation/dist/index.html
 
 ## Project setup
